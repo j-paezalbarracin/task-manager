@@ -1,0 +1,36 @@
+# Python / Django
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+*.sqlite3
+migrations/
+*.log
+.DS_Store
+
+# Django específico
+*.pot
+*.mo
+.env
+.coverage
+
+# React (client)
+client/node_modules/
+client/dist/
+client/.env.local
+client/.env.development.local
+client/.env.test.local
+client/.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store

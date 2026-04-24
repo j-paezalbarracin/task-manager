@@ -1,5 +1,8 @@
 # Task Manager App
 
+![Vista principal](images/Screenshot.png)
+![Formulario para crear](images/Screenshot2.png)
+
 Aplicación completa de gestión de tareas (CRUD) construida con Django REST Framework en el backend y React con Vite en el frontend.
 
 ## 🚀 Tecnologías
